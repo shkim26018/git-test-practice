@@ -1,5 +1,5 @@
 ﻿{
-  "gamma": 2.2,
+  "gamma": 2.4,
   "gain": 1.0,
-  "noise_reduction": "off"
+  "noise_reduction": "high"
 }
